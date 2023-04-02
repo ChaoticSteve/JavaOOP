@@ -1,3 +1,3 @@
 # JavaOOP
 
-* Test text *
+*Test text*
